@@ -1,0 +1,25 @@
+
+Core Perl Documentation Formatted for your PalmPilot!
+
+'Finally, you can have perl on your Palm!'
+
+'An indispensable reference!'
+
+created with:
+    pod2html 
+    and
+    htmltodoc from the palm-doctoolkit
+    pyrite (some Python scripts for dealing with PalmOS 'stuff') 
+
+Converted by:
+    Robert Spier <rspier+cpan@speed.seas.upenn.edu>
+    
+PalmPerlDoc comes in two formats:
+    'doc'  -> standard Palm doc format
+    'teal' -> fancier tealdoc format with links and fonts
+
+The entire core documentation requires about 1.2 MB of disk space.  
+Space in your palm will vary.
+
+ChangeLog:
+    Aug 06 1999 -> first release to CPAN
